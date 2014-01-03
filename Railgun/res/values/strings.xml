@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Railgun</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Lambda</string>
+    <string name="title_section2">Pocket Pigeon</string>
+    <string name="title_section3">Instagram</string>
+    <string name="title_section4">Snapchat</string>
+</resources>
